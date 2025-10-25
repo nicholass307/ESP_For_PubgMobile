@@ -5,3 +5,4 @@
         app:fontProviderQuery="name=Comfortaa&amp;weight=700"
         app:fontProviderCerts="@array/com_google_android_gms_fonts_certs">
 </font-family>
+
